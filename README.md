@@ -20,17 +20,29 @@ Repositori ini berisi proyek machine learning untuk memprediksi kemungkinan cust
 
 ## Struktur Proyek
 ├── README.md                                    <- Penjelasan singkat terkait proyek yang dibuat.
+
 ├── Data
+
 │   ├── data_ecommerce_customer_churn.csv        <- Dataset
+
 │   ├── Ecommerce Customer Churn.pdf             <- Penjelasan dataset
+
 |
+
 ├── Model
+
 │   ├── model_XGBoost_Ecommerce_Churn.sav        <- Model Pickle
+
 │   ├── model_XGBoost_Ecommerce_Churn_joblib     <- Model Joblib
+
 │
+
 ├── Notebook
+
 │   ├── Ecommerce Customer Churn Prediction.ipynb  <- Jupyter Notebook dari Proyek yang dibuat
+
 │
+
 └── requirements.txt                               <- Requirements yang dibutuhkan
 
 ## Kesimpulan
